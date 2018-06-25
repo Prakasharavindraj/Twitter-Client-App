@@ -1,0 +1,8 @@
+use_frameworks!
+
+target 'Twitter Client App Task' do
+   pod 'TwitterKit'
+pod 'mopub-ios-sdk'
+pod 'RevealingSplashView'
+  
+end

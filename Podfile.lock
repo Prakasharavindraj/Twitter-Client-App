@@ -1,0 +1,38 @@
+PODS:
+  - mopub-ios-sdk (4.20.0):
+    - mopub-ios-sdk/MoPubSDK (= 4.20.0)
+  - mopub-ios-sdk/Avid (4.20.0):
+    - mopub-ios-sdk/Core
+  - mopub-ios-sdk/Core (4.20.0)
+  - mopub-ios-sdk/Moat (4.20.0):
+    - mopub-ios-sdk/Core
+  - mopub-ios-sdk/MoPubSDK (4.20.0):
+    - mopub-ios-sdk/Avid
+    - mopub-ios-sdk/Core
+    - mopub-ios-sdk/Moat
+  - RevealingSplashView (0.4.0)
+  - TwitterCore (3.1.0)
+  - TwitterKit (3.3.0):
+    - TwitterCore (>= 3.1.0)
+
+DEPENDENCIES:
+  - mopub-ios-sdk
+  - RevealingSplashView
+  - TwitterKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - mopub-ios-sdk
+    - RevealingSplashView
+    - TwitterCore
+    - TwitterKit
+
+SPEC CHECKSUMS:
+  mopub-ios-sdk: 89c6ac9ca01d3b36e9fba16a6cfe31d3c290d354
+  RevealingSplashView: 72be158ad5e1bc72713e8f78383dc3e1803ce4d1
+  TwitterCore: 644d59e75abccb26cf0a9050d2c4dea0e5412241
+  TwitterKit: a2e60ddcedbf54091eac6f27685ca7a87681e1d7
+
+PODFILE CHECKSUM: fcc76e7abc4958580b6fed8573ae31432e628fa7
+
+COCOAPODS: 1.5.3
